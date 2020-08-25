@@ -1,0 +1,115 @@
+.blue{
+    height: 3em ;
+    background-color: royalblue;
+}
+.navbartext{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 12px;
+    color: white;
+    font-size: 15px;
+}
+.navbar1{
+    position: sticky;
+}
+.link{
+    list-style-type: none;
+    display: flex;
+    position: absolute;
+    top: 0px;
+    left: 320px;
+}
+.fb{
+    margin: 12px;
+}
+.you{
+    margin: 12px;
+}
+.twit{
+    margin: 12px;
+}
+.what{
+    margin: 12px;
+}
+.insta{
+    margin: 12px;
+}
+/* button style */
+.but {
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    top: 5px;
+    right: 548px;
+
+}
+.but1{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    top: 5px;
+    right: 27em;
+
+}
+.but2{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    top: 5px;
+    right: 20em;
+
+}
+.navbar-brand img{
+    width: 45%;
+    position: relative;
+    left: 340px;
+
+
+}
+#home{
+    display: flex;
+    position: relative;
+    left: 400px;
+    background-color: rgb(68, 107, 221);
+    border-radius: 10em;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 14px;
+}
+.nav-link {
+    display: flex;
+    position: relative;
+    left: 400px;;
+}
+.dropdown-menu .dropdown-item .nav-link-dropdown {
+    position: relative;
+    left: 400px;
+
+}
+.p1{
+    color: green;
+
+}
+.p1 .p2 .p3{
+    display: flex;
+    flex-direction: column;
+}
+.cen{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   padding-left: 33em;
+   padding-right: 33em;
+   padding-top: 2em;
+}
+.imga{
+    position: relative;
+    left: 47em;
+    top: 2em;
+}
+.bod{
+    background-color: rgba(248, 245, 245, 0.575);
+}
